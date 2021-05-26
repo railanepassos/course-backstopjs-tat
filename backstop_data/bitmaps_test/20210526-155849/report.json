@@ -1,0 +1,229 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Initial_State_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Initial_State_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Initial_State_0_document_0_desktop.png",
+        "label": "Initial State",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Check_VIP_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Check_VIP_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Check_VIP_0_document_0_desktop.png",
+        "label": "Check VIP",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Checkboxes_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Checkboxes_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Checkboxes_0_document_0_desktop.png",
+        "label": "Checkboxes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Selects_3_tickets_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Selects_3_tickets_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Selects_3_tickets_0_document_0_desktop.png",
+        "label": "Selects 3 tickets",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Invalid_email_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Invalid_email_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Invalid_email_0_document_0_desktop.png",
+        "label": "Invalid email",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Fill_all_mansatory_fields_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Fill_all_mansatory_fields_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Fill_all_mansatory_fields_0_document_0_desktop.png",
+        "label": "Fill all mansatory fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Successfully_submits_the_form_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Successfully_submits_the_form_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "Ticketbox_Successfully_submits_the_form_0_document_0_desktop.png",
+        "label": "Successfully submits the form",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Header_component_0_header_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Header_component_0_header_0_desktop.png",
+        "selector": "header",
+        "fileName": "Ticketbox_Header_component_0_header_0_desktop.png",
+        "label": "Header component",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Reset_button_component_0_reset_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Reset_button_component_0_reset_0_desktop.png",
+        "selector": ".reset",
+        "fileName": "Ticketbox_Reset_button_component_0_reset_0_desktop.png",
+        "label": "Reset button component",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Ticketbox_Submit_button_gray_component_0_buttontypesubmit_0_desktop.png",
+        "test": "..\\bitmaps_test\\20210526-155849\\Ticketbox_Submit_button_gray_component_0_buttontypesubmit_0_desktop.png",
+        "selector": "button[type=\"submit\"]",
+        "fileName": "Ticketbox_Submit_button_gray_component_0_buttontypesubmit_0_desktop.png",
+        "label": "Submit button gray component",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "error": "Reference file not found C:\\Users\\raila\\Documents\\course-backstopjs-tat\\backstop_data\\bitmaps_reference\\Ticketbox_Submit_button_gray_component_0_buttontypesubmit_0_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "Ticketbox"
+}

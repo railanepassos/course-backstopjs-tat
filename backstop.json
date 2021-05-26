@@ -58,6 +58,27 @@
       "hideSelectors": [".success span"],
       "misMatchThreshold" : 0,
       "requireSameDimensions": true
+    },
+    {
+      "label": "Header component",
+      "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+      "selectors": ["header"],
+      "misMatchThreshold" : 0,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Reset button component",
+      "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+      "selectors": [".reset"],
+      "misMatchThreshold" : 0,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Submit button gray component",
+      "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+      "selectors": "button[type=\"submit\"]",
+      "misMatchThreshold" : 0,
+      "requireSameDimensions": true
     }
   ],
   "paths": {
